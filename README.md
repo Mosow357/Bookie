@@ -15,6 +15,8 @@
 https://github.com/user-attachments/assets/15d05d23-9517-4ef2-abc7-d9b770a2a15a
 
 
+
+
 <br/>
 <hr/>
 
@@ -40,6 +42,8 @@ https://github.com/user-attachments/assets/15d05d23-9517-4ef2-abc7-d9b770a2a15a
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Dependencias;Tecnologías" />
 </h1>
+
+<p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <h2 style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">UX / UI<h2>
 
@@ -76,6 +80,16 @@ https://github.com/user-attachments/assets/15d05d23-9517-4ef2-abc7-d9b770a2a15a
     <li><strong>translator: ^1.0.3+1</strong></li>
 </ul>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-
-<p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<h2>Despliegue de aplicacion</h2>
+      <p>Para iniciar la aplicación Bookie, sigue estos pasos:</p>
+      <ol>
+        <li>Clona el Repositorio.</li>
+        <li>
+          Instala las dependencias requeridas con el comando:
+          <code>flutter pub get</code>.
+        </li>
+        <li>
+          Configura tu Google Maps API key en el
+          <code>AndroidManifest.xml</code>.
+        </li>
+        <li>Ejecuta la aplicación en el Android emulator o en tu dispositivo.</li>
