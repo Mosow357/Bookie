@@ -45,12 +45,17 @@ https://github.com/user-attachments/assets/15d05d23-9517-4ef2-abc7-d9b770a2a15a
 
 <p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<h2 style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">UX / UI<h2>
+<div style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">
+  <h2 style="color: #3498db; text-shadow: 1px 1px">UX / UI<h2>
+</div>
 
 <ul>
     <li><strong>Figma</strong></li>
     
 </ul>
+
+<br/>
+<hr/>
 
 <div style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">
   <h2 style="color: #3498db; text-shadow: 1px 1px">Front End<h2>
@@ -69,7 +74,9 @@ https://github.com/user-attachments/assets/15d05d23-9517-4ef2-abc7-d9b770a2a15a
 <br/>
 <hr/>
 
-<h2 style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">Back End<h2>
+<div style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">
+  <h2 style="color: #3498db; text-shadow: 1px 1px">Back End<h2>
+</div>
 
 <ul>
     <li><strong>Spring Boot</strong></li>
@@ -80,10 +87,15 @@ https://github.com/user-attachments/assets/15d05d23-9517-4ef2-abc7-d9b770a2a15a
     <li><strong>translator: ^1.0.3+1</strong></li>
 </ul>
 
-<h2>Despliegue de aplicacion</h2>
+<br/>
+<hr/>
+
+<div style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">
+  <h2 style="color: #3498db; text-shadow: 1px 1px">Despliegue de la Aplicaión<h2>
+</div>
       <p>Para iniciar la aplicación Bookie, sigue estos pasos:</p>
       <ol>
-        <li>Clona el Repositorio.</li>
+        <li>Clona el Repositorio. https://github.com/No-Country-simulation/Bookie </li>
         <li>
           Instala las dependencias requeridas con el comando:
           <code>flutter pub get</code>.
@@ -94,23 +106,38 @@ https://github.com/user-attachments/assets/15d05d23-9517-4ef2-abc7-d9b770a2a15a
         </li>
         <li>Ejecuta la aplicación en el Android emulator o en tu dispositivo.</li>
 
-<h2 style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">Equipo de Desarrollo<h2>
+<br/>
+<hr/>
+
+<div style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">
+  <h2 style="color: #3498db; text-shadow: 1px 1px">Equipo de Desarrollo<h2>
+</div>
 
 <ul>
   <li>
-    <a><img src="https://media.licdn.com/dms/image/v2/D4D35AQEqJ2VK0HF5ug/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1703603356509?e=1734454800&v=beta&t=reBTbmmE5g0zrTmdXHlpz8ycXGF1AGlAO9x-kjtWGj0" alt="Facundo Aguero" width="70" height="70"/></a> Facundo Aguero - Back End
+    <a><img src="https://media.licdn.com/dms/image/v2/D4D35AQEqJ2VK0HF5ug/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1703603356509?e=1734454800&v=beta&t=reBTbmmE5g0zrTmdXHlpz8ycXGF1AGlAO9x-kjtWGj0" alt="Facundo Aguero" width="70" height="70"/></a> Facundo Aguero - Back End <br/>
+    https://www.linkedin.com/in/facundo-nicolas-aguero/
+    <hr/>
   </li>
   <li>
-    <a><img src="https://media.licdn.com/dms/image/v2/D4E03AQFYiRx_d7ttow/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668836994983?e=1739404800&v=beta&t=yiYWhsY3v--QkQo7ua_UW7H4sE2Uq-rGYinb0FlfGCI" alt="Lionel Staricof" width="70" height="70"/></a> Lionel Staricof - Back End
+    <a><img src="https://media.licdn.com/dms/image/v2/D4E03AQFYiRx_d7ttow/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668836994983?e=1739404800&v=beta&t=yiYWhsY3v--QkQo7ua_UW7H4sE2Uq-rGYinb0FlfGCI" alt="Lionel Staricof" width="70" height="70"/></a> Lionel Staricof - Back End <br/>
+    https://www.linkedin.com/in/lionel-staricoff/
+    <hr/>
   </li>
   <li>
-    <a><img src="https://media.licdn.com/dms/image/v2/D4E35AQFZA4i6DFRHIg/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1718649750555?e=1734454800&v=beta&t=erzplmoxhCowpWgfOEY6Hg2q2gUK-_sOelswZAEtuaM" alt="Diego Alexander" width="70" height="70"/></a> Diego Alexander - UX / UI
+    <a><img src="https://media.licdn.com/dms/image/v2/D4E35AQFZA4i6DFRHIg/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1718649750555?e=1734454800&v=beta&t=erzplmoxhCowpWgfOEY6Hg2q2gUK-_sOelswZAEtuaM" alt="Diego Alexander" width="70" height="70"/></a> Diego Alexander - UX / UI <br/>
+    https://www.linkedin.com/in/diego-alexander-918a62210
+    <hr/>
   </li>
   <li>
-    <a><img src="https://media.licdn.com/dms/image/v2/D4E35AQH5Ycy6V67tuA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1692030780622?e=1734454800&v=beta&t=-UltIuV7Thl8zSEoky4AHKRb3NtwkOJaC5t2Hm2K3M4" alt="Luis Angel Guzman" width="70" height="70"/></a> Luis Angel Guzman - Front End
+    <a><img src="https://media.licdn.com/dms/image/v2/D4E35AQH5Ycy6V67tuA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1692030780622?e=1734454800&v=beta&t=-UltIuV7Thl8zSEoky4AHKRb3NtwkOJaC5t2Hm2K3M4" alt="Luis Angel Guzman" width="70" height="70"/></a> Luis Angel Guzman - Front End <br/>
+    https://www.linkedin.com/in/devluisgs
+    <hr/>
   </li>
   <li>
-    <a><img src="https://media.licdn.com/dms/image/v2/D4D35AQHlyiKX4qXMcw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1723782951740?e=1734454800&v=beta&t=vUyKvCp--UqdviKX0zFt71-TdyFjRhhNvn-x8Xei8kc" alt="Walter Mersing" width="70" height="70"/></a> Walter Mersing - Team Leader
+    <a><img src="https://media.licdn.com/dms/image/v2/D4D35AQHlyiKX4qXMcw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1723782951740?e=1734454800&v=beta&t=vUyKvCp--UqdviKX0zFt71-TdyFjRhhNvn-x8Xei8kc" alt="Walter Mersing" width="70" height="70"/></a> Walter Mersing - Team Leader <br/>
+    https://www.linkedin.com/in/walter-mersing
+    <hr/>
   </li>
 </ul>
 
