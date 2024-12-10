@@ -93,3 +93,24 @@ https://github.com/user-attachments/assets/15d05d23-9517-4ef2-abc7-d9b770a2a15a
           <code>AndroidManifest.xml</code>.
         </li>
         <li>Ejecuta la aplicación en el Android emulator o en tu dispositivo.</li>
+
+<h2 style="font-family: 'Courier New'; color: #3498db; text-shadow: 1px 1px">Equipo de Desarrollo<h2>
+
+<ul>
+  <li>
+    <a><img src="https://media.licdn.com/dms/image/v2/D4D35AQEqJ2VK0HF5ug/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1703603356509?e=1734454800&v=beta&t=reBTbmmE5g0zrTmdXHlpz8ycXGF1AGlAO9x-kjtWGj0" alt="Facundo Aguero" width="70" height="70"/></a> Facundo Aguero - Back End
+  </li>
+  <li>
+    <a><img src="https://media.licdn.com/dms/image/v2/D4E03AQFYiRx_d7ttow/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668836994983?e=1739404800&v=beta&t=yiYWhsY3v--QkQo7ua_UW7H4sE2Uq-rGYinb0FlfGCI" alt="Lionel Staricof" width="70" height="70"/></a> Lionel Staricof - Back End
+  </li>
+  <li>
+    <a><img src="https://media.licdn.com/dms/image/v2/D4E35AQFZA4i6DFRHIg/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1718649750555?e=1734454800&v=beta&t=erzplmoxhCowpWgfOEY6Hg2q2gUK-_sOelswZAEtuaM" alt="Diego Alexander" width="70" height="70"/></a> Diego Alexander - UX / UI
+  </li>
+  <li>
+    <a><img src="https://media.licdn.com/dms/image/v2/D4E35AQH5Ycy6V67tuA/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1692030780622?e=1734454800&v=beta&t=-UltIuV7Thl8zSEoky4AHKRb3NtwkOJaC5t2Hm2K3M4" alt="Luis Angel Guzman" width="70" height="70"/></a> Luis Angel Guzman - Front End
+  </li>
+  <li>
+    <a><img src="https://media.licdn.com/dms/image/v2/D4D35AQHlyiKX4qXMcw/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1723782951740?e=1734454800&v=beta&t=vUyKvCp--UqdviKX0zFt71-TdyFjRhhNvn-x8Xei8kc" alt="Walter Mersing" width="70" height="70"/></a> Walter Mersing - Team Leader
+  </li>
+</ul>
+
